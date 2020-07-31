@@ -1,3 +1,5 @@
+cloned and branched on 07/31/20 pnl
+
 # Sprint Practice: State Management - Redux
 
 ## Description
@@ -40,8 +42,8 @@ Follow these steps to set up your project:
     name: "Ricky Rubio",
     age: 29,
     height: "6′ 4″",
-    id: 0
-  }
+    id: 0,
+  },
 ];
 ```
 
@@ -72,13 +74,13 @@ Example of object created in player DB:
     name: "Ricky Rubio",
     age: 29,
     height: "6′ 4″",
-    id: 0
+    id: 0,
   },
   {
     name: "Stephen Curry",
     age: 32,
     height: "6′ 3″",
-    id: 1
-  }
+    id: 1,
+  },
 ];
 ```
